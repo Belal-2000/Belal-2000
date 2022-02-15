@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**Belal-2000/Belal-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Some Info about me 🔔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m looking to collaborate on Web projects🥇.
+- You can reach me at my Email in profile🌐.
+- I’m currently studying in fuculty of scince✨.
+- Fact: Love playing 🏓.
+
+### Some knowledge I know
+
+- **HTML & CSS** 🪄
+- **JS** ⚙️
+- **Python** 🐍
+- **SQL** 🧩
+- **API**💻
+- **Docke** 🛢️
+- **Command line** ⌨️
+- **Git** 🐈
