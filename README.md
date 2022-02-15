@@ -11,7 +11,7 @@
 ### Some knowledge I know
 
 - **HTML & CSS** 🪄
-- **JS** ⚙️
+- **JS** & **TS**⚙️
 - **Python** 🐍
 - **SQL** 🧩
 - **API**💻
