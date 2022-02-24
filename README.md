@@ -4,7 +4,6 @@
 ### Some Info about me 🔔
 
 - I’m looking to collaborate on Web projects🥇.
-- You can reach me at my Email in profile🌐.
 - I’m currently studying in faculty of science✨.
 - Fact: Love playing 🏓.
 
